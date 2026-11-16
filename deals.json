@@ -1,4 +1,16 @@
 {
- "updated": null,
- "deals": []
+ "updated": "2026-11-16T16:30:48+00:00",
+ "deals": [
+  {
+   "id": "321",
+   "city": "Turín",
+   "from": "z Bratislavy",
+   "price": "33 €",
+   "dates": "28. 11. – 30. 11. 2026",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122111091033538174",
+   "image": "img/321.jpg",
+   "added": "2026-11-16T16:30:48+00:00"
+  }
+ ]
 }
