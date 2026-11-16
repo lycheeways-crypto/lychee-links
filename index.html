@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lychee Flights – letenky v akcii</title>
+<meta name="description" content="Aktuálne letenky v akcii z Bratislavy, Viedne, Budapešti, Košíc a Prahy.">
+<meta name="theme-color" content="#FFFFF0">
+<meta property="og:title" content="Lychee Flights – letenky v akcii">
+<meta property="og:description" content="Aktuálne letenky v akcii z Bratislavy, Viedne, Budapešti, Košíc a Prahy.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* Farby značky (z loga). Tu ich môžeš zmeniť. */
+  :root {
+    --ivory: #FFFFF0;        /* pozadie stránky */
+    --card: #FFFFFB;         /* pozadie kariet */
+    --lychee: #B54D4D;       /* lychee červená */
+    --lychee-dark: #9A3D3D;
+    --leaf: #31422E;         /* tmavozelená z loga */
+    --line: rgba(49, 66, 46, .14);
+    --muted: rgba(49, 66, 46, .68);
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--ivory);
+    color: var(--leaf);
+    font-family: "Montserrat", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.4;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 28px 16px 40px; }
+
+  header { text-align: center; }
+  .logo { display: block; width: min(300px, 82%); height: auto; margin: 0 auto 14px;
+          mix-blend-mode: multiply; /* biele pozadie loga splynie s ivory */ }
+  .brand-fallback { display: none; font-weight: 700; font-size: 26px; letter-spacing: .04em; margin-bottom: 10px; }
+  .brand-fallback span { color: var(--lychee); }
+  .tagline { margin: 0 auto 20px; max-width: 340px; font-size: 14px; color: var(--muted); font-weight: 500; }
+
+  .btn {
+    display: flex; align-items: center; justify-content: center; gap: 10px;
+    width: 100%; padding: 14px 18px; border-radius: 999px;
+    background: var(--leaf); color: var(--ivory); text-decoration: none;
+    font-weight: 600; font-size: 15px;
+    transition: transform .15s ease, background .15s ease;
+  }
+  .btn:hover { background: #263622; transform: translateY(-1px); }
+  .btn svg { width: 18px; height: 18px; flex: none; }
+
+  h2 {
+    margin: 30px 0 12px; font-size: 12px; font-weight: 700;
+    letter-spacing: .14em; text-transform: uppercase; color: var(--lychee);
+  }
+
+  .list { display: flex; flex-direction: column; gap: 10px; }
+  .deal {
+    display: flex; align-items: center; gap: 12px; padding: 10px;
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    color: inherit; text-decoration: none;
+    box-shadow: 0 1px 2px rgba(49, 66, 46, .05);
+    transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+  }
+  .deal:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(49, 66, 46, .12); border-color: rgba(181, 77, 77, .45); }
+  .deal:focus-visible, .btn:focus-visible { outline: 3px solid var(--lychee); outline-offset: 2px; }
+  .thumb {
+    width: 72px; height: 72px; flex: none; border-radius: 12px; object-fit: cover;
+    background: #EFE9DD;
+  }
+  .thumb.empty { display: block; }
+  .info { flex: 1; min-width: 0; }
+  .city { font-weight: 700; font-size: 16px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .meta { font-size: 12px; font-weight: 500; margin-top: 2px; }
+  .sub { font-size: 12px; color: var(--muted); margin-top: 1px; }
+  .side { flex: none; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+  .price {
+    background: var(--lychee); color: #fff; font-weight: 700; font-size: 15px;
+    padding: 6px 11px; border-radius: 999px; white-space: nowrap;
+  }
+  .ago { font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+  .skeleton { height: 92px; border-radius: 16px; border: 1px solid var(--line);
+    background: linear-gradient(90deg, #FBFBEA 25%, #F4F2DC 50%, #FBFBEA 75%); background-size: 200% 100%;
+    animation: shimmer 1.4s infinite linear; }
+  @keyframes shimmer { to { background-position: -200% 0; } }
+  .note { text-align: center; color: var(--muted); font-size: 14px; padding: 26px 8px; }
+
+  footer { margin-top: 34px; text-align: center; font-size: 11px; color: var(--muted); line-height: 1.6; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .deal, .btn, .skeleton { transition: none; animation: none; }
+    .deal:hover, .btn:hover { transform: none; }
+  }
+  @media (max-width: 340px) { .thumb { width: 60px; height: 60px; } .city { font-size: 15px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img class="logo" src="logo.png" alt="Lychee Flights"
+         onerror="this.style.display='none'; document.getElementById('brand').style.display='block'">
+    <div id="brand" class="brand-fallback">LYCHEE<span>FLIGHTS</span></div>
+    <p class="tagline">Letenky v akcii z Bratislavy, Viedne, Budapešti, Košíc a Prahy</p>
+    <a class="btn" id="fb" href="https://www.facebook.com/1392156887321744" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.7 4.53-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.96.93-1.96 1.89v2.26h3.33l-.53 3.49h-2.8V24C19.61 23.1 24 18.1 24 12.07z"/></svg>
+      Sleduj nás na Facebooku
+    </a>
+  </header>
+
+  <h2>Aktuálne letenky</h2>
+  <main id="list" class="list" aria-live="polite">
+    <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+  </main>
+
+  <footer>
+    Ceny sa menia rýchlo, aktuálnu cenu a odkaz nájdeš v príspevku.<br>
+    Odkazy v príspevkoch môžu byť partnerské.
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var CONFIG = {
+    maxItems: 20,      // koľko letenák najviac zobraziť
+    maxAgeDays: 14     // staršie letenky sa skryjú
+  };
+
+  var list = document.getElementById("list");
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text) e.textContent = text;
+    return e;
+  }
+
+  function ago(iso) {
+    var t = Date.parse(iso);
+    if (isNaN(t)) return "";
+    var min = Math.max(0, Math.round((Date.now() - t) / 60000));
+    if (min < 2) return "práve teraz";
+    if (min < 60) return "pred " + min + " min";
+    var h = Math.round(min / 60);
+    if (h < 24) return "pred " + h + " hod.";
+    var d = Math.round(h / 24);
+    if (d === 1) return "včera";
+    return "pred " + d + " dňami";
+  }
+
+  // „9. 1. – 7. 2. 2027“ → „9. 1. – 7. 2.“ (rok sa vynechá, ak je v texte len jeden)
+  function shortDates(t) {
+    t = String(t || "");
+    var years = t.match(/\b20\d\d\b/g) || [];
+    return years.length === 1 ? t.replace(/\s*\b20\d\d\b\s*$/, "") : t;
+  }
+
+  function render(deals) {
+    list.textContent = "";
+    var now = Date.now(), maxAge = CONFIG.maxAgeDays * 86400000;
+    var shown = deals.filter(function (d) {
+      var t = Date.parse(d.added);
+      return d && typeof d.url === "string" && /^https:\/\//.test(d.url) && (isNaN(t) || now - t <= maxAge);
+    }).slice(0, CONFIG.maxItems);
+
+    if (!shown.length) {
+      list.appendChild(el("div", "note", "Práve tu nie sú žiadne aktuálne letenky. Pozri naše príspevky na Facebooku."));
+      return;
+    }
+    shown.forEach(function (d) {
+      var a = el("a", "deal");
+      a.href = d.url; a.target = "_blank"; a.rel = "noopener";
+
+      var img = el("img", "thumb");
+      img.alt = ""; img.loading = "lazy"; img.width = 72; img.height = 72;
+      if (typeof d.image === "string" && /^img\/[A-Za-z0-9_.-]+$/.test(d.image)) {
+        img.src = d.image;
+        img.onerror = function () { img.removeAttribute("src"); img.className = "thumb empty"; };
+      } else {
+        img.className = "thumb empty";
+      }
+      a.appendChild(img);
+
+      var info = el("div", "info");
+      info.appendChild(el("div", "city", d.city || "Letenka"));
+      var meta = [d.from, shortDates(d.dates)].filter(Boolean).join(" · ");
+      if (meta) info.appendChild(el("div", "meta", meta));
+      if (d.subtitle) info.appendChild(el("div", "sub", d.subtitle));
+      a.appendChild(info);
+
+      var side = el("div", "side");
+      if (d.price) side.appendChild(el("span", "price", "od " + d.price));
+      var when = ago(d.added);
+      if (when) side.appendChild(el("span", "ago", when));
+      a.appendChild(side);
+
+      list.appendChild(a);
+    });
+  }
+
+  // Minútový „cache-buster“: GitHub Pages inak môže ponúkať starý súbor až 10 minút.
+  fetch("deals.json?t=" + Math.floor(Date.now() / 60000), { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (data) { render(Array.isArray(data.deals) ? data.deals : []); })
+    .catch(function () {
+      list.textContent = "";
+      list.appendChild(el("div", "note", "Letenky sa nepodarilo načítať. Skús to o chvíľu alebo pozri Facebook."));
+    });
+})();
+</script>
+</body>
+</html>
