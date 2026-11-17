@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:49:28+00:00",
+ "updated": "2026-11-17T12:50:14+00:00",
  "deals": [
+  {
+   "id": "324",
+   "city": "Alicante",
+   "from": "z Bratislavy",
+   "price": "32 €",
+   "dates": "1. 2. – 8. 2. 2027",
+   "subtitle": "Priamy let · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122111572023538174",
+   "image": "img/324.jpg",
+   "added": "2026-11-17T12:50:14+00:00"
+  },
   {
    "id": "331",
    "city": "Bali",
