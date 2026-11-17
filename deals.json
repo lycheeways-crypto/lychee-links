@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:40:30+00:00",
+ "updated": "2026-11-17T12:44:54+00:00",
  "deals": [
+  {
+   "id": "329",
+   "city": "Kuala Lumpur",
+   "from": "z Prahy",
+   "price": "589 €",
+   "dates": "9. 3. – 24. 3. 2027",
+   "subtitle": "1 prestup · Pegasus",
+   "url": "https://www.facebook.com/1392156887321744_122111570325538174",
+   "image": "img/329.jpg",
+   "added": "2026-11-17T12:44:54+00:00"
+  },
   {
    "id": "336",
    "city": "Taipej",
