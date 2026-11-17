@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:50:14+00:00",
+ "updated": "2026-11-17T12:50:37+00:00",
  "deals": [
+  {
+   "id": "323",
+   "city": "Miláno",
+   "from": "z Budapešti",
+   "price": "29 €",
+   "dates": "4. 12. – 8. 12. 2026",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122111572485538174",
+   "image": "img/323.jpg",
+   "added": "2026-11-17T12:50:37+00:00"
+  },
   {
    "id": "324",
    "city": "Alicante",
