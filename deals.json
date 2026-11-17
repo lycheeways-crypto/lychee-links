@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:45:17+00:00",
+ "updated": "2026-11-17T12:49:28+00:00",
  "deals": [
+  {
+   "id": "331",
+   "city": "Bali",
+   "from": "z Budapešti",
+   "price": "612 €",
+   "dates": "26. 2. – 7. 3. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122111571711538174",
+   "image": "img/331.jpg",
+   "added": "2026-11-17T12:49:28+00:00"
+  },
   {
    "id": "328",
    "city": "Bangkok",
