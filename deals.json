@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T17:33:56+00:00",
+ "updated": "2026-11-17T12:31:58+00:00",
  "deals": [
+  {
+   "id": "344",
+   "city": "Los Angeles",
+   "from": "z Viedne",
+   "price": "574 €",
+   "dates": "13. 4. – 20. 4. 2027",
+   "subtitle": "1 prestup · SAS",
+   "url": "https://www.facebook.com/1392156887321744_122111558523538174",
+   "image": "img/344.jpg",
+   "added": "2026-11-17T12:31:58+00:00"
+  },
   {
    "id": "322",
    "city": "Palermo",
