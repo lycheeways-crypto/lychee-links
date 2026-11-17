@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:33:57+00:00",
+ "updated": "2026-11-17T12:36:17+00:00",
  "deals": [
+  {
+   "id": "338",
+   "city": "Malé",
+   "from": "z Viedne",
+   "price": "579 €",
+   "dates": "10. 4. – 25. 4. 2027",
+   "subtitle": "1 prestup · Etihad",
+   "url": "https://www.facebook.com/1392156887321744_122111560251538174",
+   "image": "img/338.jpg",
+   "added": "2026-11-17T12:36:17+00:00"
+  },
   {
    "id": "342",
    "city": "Toronto",
