@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T15:15:55+00:00",
+ "updated": "2026-11-18T15:16:27+00:00",
  "deals": [
+  {
+   "id": "358",
+   "city": "Colombo",
+   "from": "z Prahy",
+   "price": "580 €",
+   "dates": "31. 3. – 15. 4. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122112143775538174",
+   "image": "img/358.jpg",
+   "added": "2026-11-18T15:16:27+00:00"
+  },
   {
    "id": "362",
    "city": "New York",
