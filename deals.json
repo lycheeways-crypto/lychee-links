@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T16:12:56+00:00",
+ "updated": "2026-11-19T16:14:01+00:00",
  "deals": [
+  {
+   "id": "382",
+   "city": "Seattle",
+   "from": "z Budapešti",
+   "price": "635 €",
+   "dates": "14. 2. – 28. 2. 2027",
+   "subtitle": "2 prestupy · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122112599247538174",
+   "image": "img/382.jpg",
+   "added": "2026-11-19T16:14:01+00:00"
+  },
   {
    "id": "371",
    "city": "Hanoj",
