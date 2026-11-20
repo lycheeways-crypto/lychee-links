@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:15:32+00:00",
+ "updated": "2026-11-20T19:16:46+00:00",
  "deals": [
+  {
+   "id": "389",
+   "city": "Manila",
+   "from": "z Viedne",
+   "price": "563 €",
+   "dates": "10. 4. – 3. 5. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122113105383538174",
+   "image": "img/389.jpg",
+   "added": "2026-11-20T19:16:46+00:00"
+  },
   {
    "id": "390",
    "city": "Bali",
