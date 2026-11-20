@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:17:29+00:00",
+ "updated": "2026-11-20T19:17:52+00:00",
  "deals": [
+  {
+   "id": "392",
+   "city": "Penang",
+   "from": "z Viedne",
+   "price": "633 €",
+   "dates": "10. 4. – 20. 4. 2027",
+   "subtitle": "2 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122113105869538174",
+   "image": "img/392.jpg",
+   "added": "2026-11-20T19:17:52+00:00"
+  },
   {
    "id": "387",
    "city": "Gdansk",
