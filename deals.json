@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:17:07+00:00",
+ "updated": "2026-11-20T19:17:29+00:00",
  "deals": [
+  {
+   "id": "387",
+   "city": "Gdansk",
+   "from": "z Budapešti",
+   "price": "45 €",
+   "dates": "28. 12. 2026 – 6. 1. 2027",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122113105707538174",
+   "image": "img/387.jpg",
+   "added": "2026-11-20T19:17:29+00:00"
+  },
   {
    "id": "388",
    "city": "Jakarta",
