@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:14:48+00:00",
+ "updated": "2026-11-20T19:15:32+00:00",
  "deals": [
+  {
+   "id": "390",
+   "city": "Bali",
+   "from": "z Viedne",
+   "price": "609 €",
+   "dates": "27. 3. – 7. 4. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122113104873538174",
+   "image": "img/390.jpg",
+   "added": "2026-11-20T19:15:32+00:00"
+  },
   {
    "id": "385",
    "city": "Kodaň",
