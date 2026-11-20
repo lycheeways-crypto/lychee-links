@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T14:48:48+00:00",
+ "updated": "2026-11-20T14:50:05+00:00",
  "deals": [
+  {
+   "id": "400",
+   "city": "San Francisco",
+   "from": "z Budapešti",
+   "price": "653 €",
+   "dates": "1. 4. – 17. 4. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122113037649538174",
+   "image": "img/400.jpg",
+   "added": "2026-11-20T14:50:05+00:00"
+  },
   {
    "id": "386",
    "city": "Brusel",
