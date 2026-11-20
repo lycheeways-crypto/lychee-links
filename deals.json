@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:18:15+00:00",
+ "updated": "2026-11-20T19:18:41+00:00",
  "deals": [
+  {
+   "id": "398",
+   "city": "Astana",
+   "from": "z Prahy",
+   "price": "177 €",
+   "dates": "4. 12. – 11. 12. 2026",
+   "subtitle": "1 prestup · Pegasus",
+   "url": "https://www.facebook.com/1392156887321744_122113106283538174",
+   "image": "img/398.jpg",
+   "added": "2026-11-20T19:18:41+00:00"
+  },
   {
    "id": "393",
    "city": "Marakéš",
