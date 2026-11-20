@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:18:41+00:00",
+ "updated": "2026-11-20T19:19:03+00:00",
  "deals": [
+  {
+   "id": "399",
+   "city": "Seattle",
+   "from": "z Prahy",
+   "price": "322 €",
+   "dates": "26. 11. – 3. 12. 2026",
+   "subtitle": "1 prestup · Condor",
+   "url": "https://www.facebook.com/1392156887321744_122113106463538174",
+   "image": "img/399.jpg",
+   "added": "2026-11-20T19:19:03+00:00"
+  },
   {
    "id": "398",
    "city": "Astana",
