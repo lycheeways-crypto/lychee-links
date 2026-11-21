@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:15:27+00:00",
+ "updated": "2026-11-21T18:15:51+00:00",
  "deals": [
+  {
+   "id": "402",
+   "city": "Turín",
+   "from": "z Prahy",
+   "price": "35 €",
+   "dates": "16. 1. – 23. 1. 2027",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122113484979538174",
+   "image": "img/402.jpg",
+   "added": "2026-11-21T18:15:51+00:00"
+  },
   {
    "id": "403",
    "city": "Berlín",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111572485538174",
    "image": "img/323.jpg",
    "added": "2026-11-17T12:50:37+00:00"
-  },
-  {
-   "id": "324",
-   "city": "Alicante",
-   "from": "z Bratislavy",
-   "price": "32 €",
-   "dates": "1. 2. – 8. 2. 2027",
-   "subtitle": "Priamy let · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122111572023538174",
-   "image": "img/324.jpg",
-   "added": "2026-11-17T12:50:14+00:00"
   }
  ]
 }
