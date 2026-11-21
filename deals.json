@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:14:16+00:00",
+ "updated": "2026-11-21T18:15:01+00:00",
  "deals": [
+  {
+   "id": "404",
+   "city": "Neapol",
+   "from": "z Bratislavy",
+   "price": "43 €",
+   "dates": "12. 1. – 15. 1. 2027",
+   "subtitle": "Priamy let · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122113484337538174",
+   "image": "img/404.jpg",
+   "added": "2026-11-21T18:15:01+00:00"
+  },
   {
    "id": "406",
    "city": "Langkawi",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111571711538174",
    "image": "img/331.jpg",
    "added": "2026-11-17T12:49:28+00:00"
-  },
-  {
-   "id": "328",
-   "city": "Bangkok",
-   "from": "z Viedne",
-   "price": "518 €",
-   "dates": "20. 4. – 30. 4. 2027",
-   "subtitle": "1 prestup",
-   "url": "https://www.facebook.com/1392156887321744_122111570499538174",
-   "image": "img/328.jpg",
-   "added": "2026-11-17T12:45:17+00:00"
   }
  ]
 }
