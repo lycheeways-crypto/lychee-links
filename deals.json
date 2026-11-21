@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:13:56+00:00",
+ "updated": "2026-11-21T18:14:16+00:00",
  "deals": [
+  {
+   "id": "406",
+   "city": "Langkawi",
+   "from": "z Viedne",
+   "price": "638 €",
+   "dates": "10. 4. – 20. 4. 2027",
+   "subtitle": "2 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122113483893538174",
+   "image": "img/406.jpg",
+   "added": "2026-11-21T18:14:16+00:00"
+  },
   {
    "id": "407",
    "city": "Da Nang",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111570499538174",
    "image": "img/328.jpg",
    "added": "2026-11-17T12:45:17+00:00"
-  },
-  {
-   "id": "329",
-   "city": "Kuala Lumpur",
-   "from": "z Prahy",
-   "price": "589 €",
-   "dates": "9. 3. – 24. 3. 2027",
-   "subtitle": "1 prestup · Pegasus",
-   "url": "https://www.facebook.com/1392156887321744_122111570325538174",
-   "image": "img/329.jpg",
-   "added": "2026-11-17T12:44:54+00:00"
   }
  ]
 }
