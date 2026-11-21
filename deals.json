@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:15:01+00:00",
+ "updated": "2026-11-21T18:15:27+00:00",
  "deals": [
+  {
+   "id": "403",
+   "city": "Berlín",
+   "from": "z Budapešti",
+   "price": "37 €",
+   "dates": "17. 12. 2026 – 1. 1. 2027",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122113484679538174",
+   "image": "img/403.jpg",
+   "added": "2026-11-21T18:15:27+00:00"
+  },
   {
    "id": "404",
    "city": "Neapol",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111572023538174",
    "image": "img/324.jpg",
    "added": "2026-11-17T12:50:14+00:00"
-  },
-  {
-   "id": "331",
-   "city": "Bali",
-   "from": "z Budapešti",
-   "price": "612 €",
-   "dates": "26. 2. – 7. 3. 2027",
-   "subtitle": "1 prestup",
-   "url": "https://www.facebook.com/1392156887321744_122111571711538174",
-   "image": "img/331.jpg",
-   "added": "2026-11-17T12:49:28+00:00"
   }
  ]
 }
