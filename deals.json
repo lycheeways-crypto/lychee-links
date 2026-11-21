@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:19:03+00:00",
+ "updated": "2026-11-21T18:11:10+00:00",
  "deals": [
+  {
+   "id": "417",
+   "city": "Toronto",
+   "from": "z Viedne",
+   "price": "541 €",
+   "dates": "4. 4. – 22. 4. 2027",
+   "subtitle": "1 prestup · Condor",
+   "url": "https://www.facebook.com/1392156887321744_122113482201538174",
+   "image": "img/417.jpg",
+   "added": "2026-11-21T18:11:10+00:00"
+  },
   {
    "id": "399",
    "city": "Seattle",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111114319538174",
    "image": "img/322.jpg",
    "added": "2026-11-16T17:33:56+00:00"
-  },
-  {
-   "id": "321",
-   "city": "Turín",
-   "from": "z Bratislavy",
-   "price": "33 €",
-   "dates": "28. 11. – 30. 11. 2026",
-   "subtitle": "Priamy let · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122111091033538174",
-   "image": "img/321.jpg",
-   "added": "2026-11-16T16:30:48+00:00"
   }
  ]
 }
