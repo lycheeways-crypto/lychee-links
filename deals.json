@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:12:48+00:00",
+ "updated": "2026-11-21T18:13:09+00:00",
  "deals": [
+  {
+   "id": "412",
+   "city": "Káhira",
+   "from": "z Viedne",
+   "price": "178 €",
+   "dates": "20. 2. – 27. 2. 2027",
+   "subtitle": "1 prestup · Pegasus",
+   "url": "https://www.facebook.com/1392156887321744_122113483299538174",
+   "image": "img/412.jpg",
+   "added": "2026-11-21T18:13:09+00:00"
+  },
   {
    "id": "413",
    "city": "Fez",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111560251538174",
    "image": "img/338.jpg",
    "added": "2026-11-17T12:36:17+00:00"
-  },
-  {
-   "id": "342",
-   "city": "Toronto",
-   "from": "z Prahy",
-   "price": "361 €",
-   "dates": "22. 1. – 29. 1. 2027",
-   "subtitle": "1 prestup · Condor",
-   "url": "https://www.facebook.com/1392156887321744_122111559243538174",
-   "image": "img/342.jpg",
-   "added": "2026-11-17T12:33:57+00:00"
   }
  ]
 }
