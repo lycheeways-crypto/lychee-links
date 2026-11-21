@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:11:58+00:00",
+ "updated": "2026-11-21T18:12:48+00:00",
  "deals": [
+  {
+   "id": "413",
+   "city": "Fez",
+   "from": "z Prahy",
+   "price": "178 €",
+   "dates": "11. 1. – 17. 1. 2027",
+   "subtitle": "2 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122113483137538174",
+   "image": "img/413.jpg",
+   "added": "2026-11-21T18:12:48+00:00"
+  },
   {
    "id": "414",
    "city": "Lahore",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111559243538174",
    "image": "img/342.jpg",
    "added": "2026-11-17T12:33:57+00:00"
-  },
-  {
-   "id": "343",
-   "city": "New York",
-   "from": "z Viedne",
-   "price": "512 €",
-   "dates": "4. 3. – 11. 3. 2027",
-   "subtitle": "1 prestup · SAS",
-   "url": "https://www.facebook.com/1392156887321744_122111558931538174",
-   "image": "img/343.jpg",
-   "added": "2026-11-17T12:32:47+00:00"
   }
  ]
 }
