@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:11:34+00:00",
+ "updated": "2026-11-21T18:11:58+00:00",
  "deals": [
+  {
+   "id": "414",
+   "city": "Lahore",
+   "from": "z Viedne",
+   "price": "528 €",
+   "dates": "18. 2. – 18. 3. 2027",
+   "subtitle": "3 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122113482567538174",
+   "image": "img/414.jpg",
+   "added": "2026-11-21T18:11:58+00:00"
+  },
   {
    "id": "416",
    "city": "Miami",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122111558931538174",
    "image": "img/343.jpg",
    "added": "2026-11-17T12:32:47+00:00"
-  },
-  {
-   "id": "344",
-   "city": "Los Angeles",
-   "from": "z Viedne",
-   "price": "574 €",
-   "dates": "13. 4. – 20. 4. 2027",
-   "subtitle": "1 prestup · SAS",
-   "url": "https://www.facebook.com/1392156887321744_122111558523538174",
-   "image": "img/344.jpg",
-   "added": "2026-11-17T12:31:58+00:00"
   }
  ]
 }
