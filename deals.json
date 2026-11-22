@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T13:20:53+00:00",
+ "updated": "2026-11-22T13:21:47+00:00",
  "deals": [
+  {
+   "id": "437",
+   "city": "Ontario",
+   "from": "z Prahy",
+   "price": "518 €",
+   "dates": "15. 2. – 27. 2. 2027",
+   "subtitle": "2 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122113803639538174",
+   "image": "img/437.jpg",
+   "added": "2026-11-22T13:21:47+00:00"
+  },
   {
    "id": "438",
    "city": "Vancouver",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122112143469538174",
    "image": "img/362.jpg",
    "added": "2026-11-18T15:15:55+00:00"
-  },
-  {
-   "id": "364",
-   "city": "Calgary",
-   "from": "z Budapešti",
-   "price": "605 €",
-   "dates": "13. 3. – 21. 3. 2027",
-   "subtitle": "1 prestup · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122112026865538174",
-   "image": "img/364.jpg",
-   "added": "2026-11-18T12:56:07+00:00"
   }
  ]
 }
