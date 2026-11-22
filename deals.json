@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T13:24:43+00:00",
+ "updated": "2026-11-22T13:25:07+00:00",
  "deals": [
+  {
+   "id": "424",
+   "city": "Kuching",
+   "from": "z Viedne",
+   "price": "667 €",
+   "dates": "10. 4. – 20. 4. 2027",
+   "subtitle": "2 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122113804797538174",
+   "image": "img/424.jpg",
+   "added": "2026-11-22T13:25:07+00:00"
+  },
   {
    "id": "425",
    "city": "Phnom Penh",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113104393538174",
    "image": "img/386.jpg",
    "added": "2026-11-20T14:48:48+00:00"
-  },
-  {
-   "id": "382",
-   "city": "Seattle",
-   "from": "z Budapešti",
-   "price": "635 €",
-   "dates": "14. 2. – 28. 2. 2027",
-   "subtitle": "2 prestupy · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122112599247538174",
-   "image": "img/382.jpg",
-   "added": "2026-11-19T16:14:01+00:00"
   }
  ]
 }
