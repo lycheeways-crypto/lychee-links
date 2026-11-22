@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T13:23:24+00:00",
+ "updated": "2026-11-22T13:23:51+00:00",
  "deals": [
+  {
+   "id": "431",
+   "city": "Šanghaj",
+   "from": "z Viedne",
+   "price": "520 €",
+   "dates": "10. 3. – 16. 3. 2027",
+   "subtitle": "1 prestup · Finnair",
+   "url": "https://www.facebook.com/1392156887321744_122113804317538174",
+   "image": "img/431.jpg",
+   "added": "2026-11-22T13:23:51+00:00"
+  },
   {
    "id": "432",
    "city": "Hongkong",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122112144867538174",
    "image": "img/348.jpg",
    "added": "2026-11-18T15:17:37+00:00"
-  },
-  {
-   "id": "355",
-   "city": "Marakéš",
-   "from": "z Viedne",
-   "price": "141 €",
-   "dates": "22. 1. – 26. 1. 2027",
-   "subtitle": "1 prestup · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122112144603538174",
-   "image": "img/355.jpg",
-   "added": "2026-11-18T15:17:10+00:00"
   }
  ]
 }
