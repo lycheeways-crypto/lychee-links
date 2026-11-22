@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T18:15:51+00:00",
+ "updated": "2026-11-22T13:20:53+00:00",
  "deals": [
+  {
+   "id": "438",
+   "city": "Vancouver",
+   "from": "z Budapešti",
+   "price": "636 €",
+   "dates": "1. 2. – 29. 3. 2027",
+   "subtitle": "3 prestupy · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122113803393538174",
+   "image": "img/438.jpg",
+   "added": "2026-11-22T13:20:53+00:00"
+  },
   {
    "id": "402",
    "city": "Turín",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122112026865538174",
    "image": "img/364.jpg",
    "added": "2026-11-18T12:56:07+00:00"
-  },
-  {
-   "id": "323",
-   "city": "Miláno",
-   "from": "z Budapešti",
-   "price": "29 €",
-   "dates": "4. 12. – 8. 12. 2026",
-   "subtitle": "Priamy let · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122111572485538174",
-   "image": "img/323.jpg",
-   "added": "2026-11-17T12:50:37+00:00"
   }
  ]
 }
