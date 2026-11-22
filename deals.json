@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T13:25:55+00:00",
+ "updated": "2026-11-22T13:26:23+00:00",
  "deals": [
+  {
+   "id": "421",
+   "city": "Manchester",
+   "from": "z Bratislavy",
+   "price": "46 €",
+   "dates": "5. 12. – 7. 12. 2026",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122113805415538174",
+   "image": "img/421.jpg",
+   "added": "2026-11-22T13:26:23+00:00"
+  },
   {
    "id": "422",
    "city": "Londýn",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113104873538174",
    "image": "img/390.jpg",
    "added": "2026-11-20T19:15:32+00:00"
-  },
-  {
-   "id": "385",
-   "city": "Kodaň",
-   "from": "z Budapešti",
-   "price": "42 €",
-   "dates": "15. 1. – 19. 1. 2027",
-   "subtitle": "Priamy let · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122113104165538174",
-   "image": "img/385.jpg",
-   "added": "2026-11-20T19:14:28+00:00"
   }
  ]
 }
