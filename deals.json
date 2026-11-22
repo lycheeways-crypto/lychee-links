@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T13:25:07+00:00",
+ "updated": "2026-11-22T13:25:31+00:00",
  "deals": [
+  {
+   "id": "423",
+   "city": "Vientiane",
+   "from": "z Budapešti",
+   "price": "609 €",
+   "dates": "2. 3. – 10. 3. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122113804977538174",
+   "image": "img/423.jpg",
+   "added": "2026-11-22T13:25:31+00:00"
+  },
   {
    "id": "424",
    "city": "Kuching",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113037649538174",
    "image": "img/400.jpg",
    "added": "2026-11-20T14:50:05+00:00"
-  },
-  {
-   "id": "386",
-   "city": "Brusel",
-   "from": "z Budapešti",
-   "price": "44 €",
-   "dates": "22. 1. – 24. 1. 2027",
-   "subtitle": "Priamy let · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122113104393538174",
-   "image": "img/386.jpg",
-   "added": "2026-11-20T14:48:48+00:00"
   }
  ]
 }
