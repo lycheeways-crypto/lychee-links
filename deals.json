@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T13:21:47+00:00",
+ "updated": "2026-11-22T13:22:17+00:00",
  "deals": [
+  {
+   "id": "436",
+   "city": "Los Angeles",
+   "from": "z Prahy",
+   "price": "506 €",
+   "dates": "15. 2. – 27. 2. 2027",
+   "subtitle": "2 prestupy · Finnair",
+   "url": "https://www.facebook.com/1392156887321744_122113803795538174",
+   "image": "img/436.jpg",
+   "added": "2026-11-22T13:22:17+00:00"
+  },
   {
    "id": "437",
    "city": "Ontario",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122112143775538174",
    "image": "img/358.jpg",
    "added": "2026-11-18T15:16:27+00:00"
-  },
-  {
-   "id": "362",
-   "city": "New York",
-   "from": "z Prahy",
-   "price": "383 €",
-   "dates": "3. 2. – 10. 2. 2027",
-   "subtitle": "1 prestup · TAP Air Portugal",
-   "url": "https://www.facebook.com/1392156887321744_122112143469538174",
-   "image": "img/362.jpg",
-   "added": "2026-11-18T15:15:55+00:00"
   }
  ]
 }
