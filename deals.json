@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T16:21:05+00:00",
+ "updated": "2026-11-23T16:22:04+00:00",
  "deals": [
+  {
+   "id": "451",
+   "city": "Dillí",
+   "from": "z Viedne",
+   "price": "438 €",
+   "dates": "8. 2. – 16. 2. 2027",
+   "subtitle": "2 prestupy · Pegasus",
+   "url": "https://www.facebook.com/1392156887321744_122114273709538174",
+   "image": "img/451.jpg",
+   "added": "2026-11-23T16:22:04+00:00"
+  },
   {
    "id": "439",
    "city": "Brusel",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113105869538174",
    "image": "img/392.jpg",
    "added": "2026-11-20T19:17:52+00:00"
-  },
-  {
-   "id": "387",
-   "city": "Gdansk",
-   "from": "z Budapešti",
-   "price": "45 €",
-   "dates": "28. 12. 2026 – 6. 1. 2027",
-   "subtitle": "Priamy let · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122113105707538174",
-   "image": "img/387.jpg",
-   "added": "2026-11-20T19:17:29+00:00"
   }
  ]
 }
