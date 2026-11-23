@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T16:23:21+00:00",
+ "updated": "2026-11-23T20:12:57+00:00",
  "deals": [
+  {
+   "id": "455",
+   "city": "New York",
+   "from": "z Prahy",
+   "price": "322 €",
+   "dates": "15. 1. – 25. 1. 2027",
+   "subtitle": "1 prestup · Condor",
+   "url": "https://www.facebook.com/1392156887321744_122114328741538174",
+   "image": "img/455.jpg",
+   "added": "2026-11-23T20:12:57+00:00"
+  },
   {
    "id": "457",
    "city": "Miami",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113106283538174",
    "image": "img/398.jpg",
    "added": "2026-11-20T19:18:41+00:00"
-  },
-  {
-   "id": "393",
-   "city": "Marakéš",
-   "from": "z Viedne",
-   "price": "107 €",
-   "dates": "14. 2. – 17. 2. 2027",
-   "subtitle": "1 prestup · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122113106061538174",
-   "image": "img/393.jpg",
-   "added": "2026-11-20T19:18:15+00:00"
   }
  ]
 }
