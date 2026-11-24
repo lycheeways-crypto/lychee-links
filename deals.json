@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T14:43:19+00:00",
+ "updated": "2026-11-24T14:43:50+00:00",
  "deals": [
+  {
+   "id": "461",
+   "city": "Larnaka",
+   "from": "z Viedne",
+   "price": "38 €",
+   "dates": "17. 1. – 24. 1. 2027",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122114637315538174",
+   "image": "img/461.jpg",
+   "added": "2026-11-24T14:43:50+00:00"
+  },
   {
    "id": "464",
    "city": "Kapské Mesto",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113483473538174",
    "image": "img/408.jpg",
    "added": "2026-11-21T18:13:34+00:00"
-  },
-  {
-   "id": "412",
-   "city": "Káhira",
-   "from": "z Viedne",
-   "price": "178 €",
-   "dates": "20. 2. – 27. 2. 2027",
-   "subtitle": "1 prestup · Pegasus",
-   "url": "https://www.facebook.com/1392156887321744_122113483299538174",
-   "image": "img/412.jpg",
-   "added": "2026-11-21T18:13:09+00:00"
   }
  ]
 }
