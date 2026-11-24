@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T14:37:56+00:00",
+ "updated": "2026-11-24T14:41:14+00:00",
  "deals": [
+  {
+   "id": "473",
+   "city": "Boston",
+   "from": "z Viedne",
+   "price": "378 €",
+   "dates": "7. 3. – 14. 3. 2027",
+   "subtitle": "1 prestup · Aer Lingus",
+   "url": "https://www.facebook.com/1392156887321744_122114636487538174",
+   "image": "img/473.jpg",
+   "added": "2026-11-24T14:41:14+00:00"
+  },
   {
    "id": "474",
    "city": "New York",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113482357538174",
    "image": "img/416.jpg",
    "added": "2026-11-21T18:11:34+00:00"
-  },
-  {
-   "id": "417",
-   "city": "Toronto",
-   "from": "z Viedne",
-   "price": "541 €",
-   "dates": "4. 4. – 22. 4. 2027",
-   "subtitle": "1 prestup · Condor",
-   "url": "https://www.facebook.com/1392156887321744_122113482201538174",
-   "image": "img/417.jpg",
-   "added": "2026-11-21T18:11:10+00:00"
   }
  ]
 }
