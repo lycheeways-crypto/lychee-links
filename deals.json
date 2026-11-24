@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T20:12:57+00:00",
+ "updated": "2026-11-24T14:34:53+00:00",
  "deals": [
+  {
+   "id": "458",
+   "city": "Miláno",
+   "from": "z Viedne",
+   "price": "33 €",
+   "dates": "27. 1. – 1. 2. 2027",
+   "subtitle": "Priamy let · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122114634141538174",
+   "image": "img/458.jpg",
+   "added": "2026-11-24T14:34:53+00:00"
+  },
   {
    "id": "455",
    "city": "New York",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113106463538174",
    "image": "img/399.jpg",
    "added": "2026-11-20T19:19:03+00:00"
-  },
-  {
-   "id": "398",
-   "city": "Astana",
-   "from": "z Prahy",
-   "price": "177 €",
-   "dates": "4. 12. – 11. 12. 2026",
-   "subtitle": "1 prestup · Pegasus",
-   "url": "https://www.facebook.com/1392156887321744_122113106283538174",
-   "image": "img/398.jpg",
-   "added": "2026-11-20T19:18:41+00:00"
   }
  ]
 }
