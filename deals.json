@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T14:42:51+00:00",
+ "updated": "2026-11-24T14:43:19+00:00",
  "deals": [
+  {
+   "id": "464",
+   "city": "Kapské Mesto",
+   "from": "z Viedne",
+   "price": "583 €",
+   "dates": "1. 3. – 8. 3. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122114637159538174",
+   "image": "img/464.jpg",
+   "added": "2026-11-24T14:43:19+00:00"
+  },
   {
    "id": "466",
    "city": "Sanya",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113483299538174",
    "image": "img/412.jpg",
    "added": "2026-11-21T18:13:09+00:00"
-  },
-  {
-   "id": "413",
-   "city": "Fez",
-   "from": "z Prahy",
-   "price": "178 €",
-   "dates": "11. 1. – 17. 1. 2027",
-   "subtitle": "2 prestupy",
-   "url": "https://www.facebook.com/1392156887321744_122113483137538174",
-   "image": "img/413.jpg",
-   "added": "2026-11-21T18:12:48+00:00"
   }
  ]
 }
