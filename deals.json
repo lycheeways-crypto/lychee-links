@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T14:41:14+00:00",
+ "updated": "2026-11-24T14:42:20+00:00",
  "deals": [
+  {
+   "id": "468",
+   "city": "Macau",
+   "from": "z Viedne",
+   "price": "581 €",
+   "dates": "21. 2. – 3. 3. 2027",
+   "subtitle": "1 prestup · Air China",
+   "url": "https://www.facebook.com/1392156887321744_122114636847538174",
+   "image": "img/468.jpg",
+   "added": "2026-11-24T14:42:20+00:00"
+  },
   {
    "id": "473",
    "city": "Boston",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113482567538174",
    "image": "img/414.jpg",
    "added": "2026-11-21T18:11:58+00:00"
-  },
-  {
-   "id": "416",
-   "city": "Miami",
-   "from": "z Prahy",
-   "price": "509 €",
-   "dates": "6. 3. – 14. 3. 2027",
-   "subtitle": "1 prestup · TAP Air Portugal",
-   "url": "https://www.facebook.com/1392156887321744_122113482357538174",
-   "image": "img/416.jpg",
-   "added": "2026-11-21T18:11:34+00:00"
   }
  ]
 }
