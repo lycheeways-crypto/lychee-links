@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T14:42:20+00:00",
+ "updated": "2026-11-24T14:42:51+00:00",
  "deals": [
+  {
+   "id": "466",
+   "city": "Sanya",
+   "from": "z Prahy",
+   "price": "565 €",
+   "dates": "25. 2. – 25. 3. 2027",
+   "subtitle": "Priamy let",
+   "url": "https://www.facebook.com/1392156887321744_122114636943538174",
+   "image": "img/466.jpg",
+   "added": "2026-11-24T14:42:51+00:00"
+  },
   {
    "id": "468",
    "city": "Macau",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113483137538174",
    "image": "img/413.jpg",
    "added": "2026-11-21T18:12:48+00:00"
-  },
-  {
-   "id": "414",
-   "city": "Lahore",
-   "from": "z Viedne",
-   "price": "528 €",
-   "dates": "18. 2. – 18. 3. 2027",
-   "subtitle": "3 prestupy",
-   "url": "https://www.facebook.com/1392156887321744_122113482567538174",
-   "image": "img/414.jpg",
-   "added": "2026-11-21T18:11:58+00:00"
   }
  ]
 }
