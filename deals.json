@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T15:00:03+00:00",
+ "updated": "2026-11-25T15:01:01+00:00",
  "deals": [
+  {
+   "id": "486",
+   "city": "Soul",
+   "from": "z Viedne",
+   "price": "665 €",
+   "dates": "4. 4. – 14. 4. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122114999763538174",
+   "image": "img/486.jpg",
+   "added": "2026-11-25T15:01:01+00:00"
+  },
   {
    "id": "489",
    "city": "San Francisco",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113483893538174",
    "image": "img/406.jpg",
    "added": "2026-11-21T18:14:16+00:00"
-  },
-  {
-   "id": "407",
-   "city": "Da Nang",
-   "from": "z Budapešti",
-   "price": "658 €",
-   "dates": "8. 3. – 21. 3. 2027",
-   "subtitle": "3 prestupy · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122113483719538174",
-   "image": "img/407.jpg",
-   "added": "2026-11-21T18:13:56+00:00"
   }
  ]
 }
