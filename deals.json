@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T15:01:01+00:00",
+ "updated": "2026-11-25T15:02:17+00:00",
  "deals": [
+  {
+   "id": "484",
+   "city": "Šanghaj",
+   "from": "z Prahy",
+   "price": "583 €",
+   "dates": "4. 2. – 11. 2. 2027",
+   "subtitle": "1 prestup · Swiss",
+   "url": "https://www.facebook.com/1392156887321744_122115000237538174",
+   "image": "img/484.jpg",
+   "added": "2026-11-25T15:02:17+00:00"
+  },
   {
    "id": "486",
    "city": "Soul",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113484337538174",
    "image": "img/404.jpg",
    "added": "2026-11-21T18:15:01+00:00"
-  },
-  {
-   "id": "406",
-   "city": "Langkawi",
-   "from": "z Viedne",
-   "price": "638 €",
-   "dates": "10. 4. – 20. 4. 2027",
-   "subtitle": "2 prestupy",
-   "url": "https://www.facebook.com/1392156887321744_122113483893538174",
-   "image": "img/406.jpg",
-   "added": "2026-11-21T18:14:16+00:00"
   }
  ]
 }
