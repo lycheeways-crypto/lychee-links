@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T15:02:45+00:00",
+ "updated": "2026-11-25T15:03:11+00:00",
  "deals": [
+  {
+   "id": "479",
+   "city": "Basel",
+   "from": "z Budapešti",
+   "price": "47 €",
+   "dates": "22. 12. 2026 – 1. 1. 2027",
+   "subtitle": "Priamy let · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122115000633538174",
+   "image": "img/479.jpg",
+   "added": "2026-11-25T15:03:11+00:00"
+  },
   {
    "id": "482",
    "city": "Lagos",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113484979538174",
    "image": "img/402.jpg",
    "added": "2026-11-21T18:15:51+00:00"
-  },
-  {
-   "id": "403",
-   "city": "Berlín",
-   "from": "z Budapešti",
-   "price": "37 €",
-   "dates": "17. 12. 2026 – 1. 1. 2027",
-   "subtitle": "Priamy let · Ryanair",
-   "url": "https://www.facebook.com/1392156887321744_122113484679538174",
-   "image": "img/403.jpg",
-   "added": "2026-11-21T18:15:27+00:00"
   }
  ]
 }
