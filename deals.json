@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T15:02:17+00:00",
+ "updated": "2026-11-25T15:02:45+00:00",
  "deals": [
+  {
+   "id": "482",
+   "city": "Lagos",
+   "from": "z Viedne",
+   "price": "591 €",
+   "dates": "24. 3. – 15. 4. 2027",
+   "subtitle": "1 prestup",
+   "url": "https://www.facebook.com/1392156887321744_122115000423538174",
+   "image": "img/482.jpg",
+   "added": "2026-11-25T15:02:45+00:00"
+  },
   {
    "id": "484",
    "city": "Šanghaj",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113484679538174",
    "image": "img/403.jpg",
    "added": "2026-11-21T18:15:27+00:00"
-  },
-  {
-   "id": "404",
-   "city": "Neapol",
-   "from": "z Bratislavy",
-   "price": "43 €",
-   "dates": "12. 1. – 15. 1. 2027",
-   "subtitle": "Priamy let · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122113484337538174",
-   "image": "img/404.jpg",
-   "added": "2026-11-21T18:15:01+00:00"
   }
  ]
 }
