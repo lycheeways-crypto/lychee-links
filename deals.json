@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T14:43:50+00:00",
+ "updated": "2026-11-25T15:00:03+00:00",
  "deals": [
+  {
+   "id": "489",
+   "city": "San Francisco",
+   "from": "z Prahy",
+   "price": "507 €",
+   "dates": "9. 2. – 23. 2. 2027",
+   "subtitle": "2 prestupy",
+   "url": "https://www.facebook.com/1392156887321744_122114999481538174",
+   "image": "img/489.jpg",
+   "added": "2026-11-25T15:00:03+00:00"
+  },
   {
    "id": "461",
    "city": "Larnaka",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113483719538174",
    "image": "img/407.jpg",
    "added": "2026-11-21T18:13:56+00:00"
-  },
-  {
-   "id": "408",
-   "city": "Kota-Kinabalu",
-   "from": "z Viedne",
-   "price": "659 €",
-   "dates": "10. 4. – 20. 4. 2027",
-   "subtitle": "2 prestupy",
-   "url": "https://www.facebook.com/1392156887321744_122113483473538174",
-   "image": "img/408.jpg",
-   "added": "2026-11-21T18:13:34+00:00"
   }
  ]
 }
