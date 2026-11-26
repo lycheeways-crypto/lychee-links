@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T15:03:37+00:00",
+ "updated": "2026-11-26T12:56:05+00:00",
  "deals": [
+  {
+   "id": "505",
+   "city": "Denver",
+   "from": "z Prahy",
+   "price": "631 €",
+   "dates": "22. 2. – 8. 3. 2027",
+   "subtitle": "2 prestupy · Condor",
+   "url": "https://www.facebook.com/1392156887321744_122115364293538174",
+   "image": "img/505.jpg",
+   "added": "2026-11-26T12:56:05+00:00"
+  },
   {
    "id": "476",
    "city": "Rím",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122114122029538174",
    "image": "img/437.jpg",
    "added": "2026-11-22T13:21:47+00:00"
-  },
-  {
-   "id": "438",
-   "city": "Vancouver",
-   "from": "z Budapešti",
-   "price": "636 €",
-   "dates": "1. 2. – 29. 3. 2027",
-   "subtitle": "3 prestupy · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122113803393538174",
-   "image": "img/438.jpg",
-   "added": "2026-11-22T13:20:53+00:00"
   }
  ]
 }
