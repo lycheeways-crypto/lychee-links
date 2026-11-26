@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T12:57:48+00:00",
+ "updated": "2026-11-26T12:58:54+00:00",
  "deals": [
+  {
+   "id": "496",
+   "city": "Casablanca",
+   "from": "z Budapešti",
+   "price": "172 €",
+   "dates": "20. 1. – 22. 1. 2027",
+   "subtitle": "1 prestup · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122115365601538174",
+   "image": "img/496.jpg",
+   "added": "2026-11-26T12:58:54+00:00"
+  },
   {
    "id": "497",
    "city": "Nairobi",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113804449538174",
    "image": "img/430.jpg",
    "added": "2026-11-22T13:24:15+00:00"
-  },
-  {
-   "id": "431",
-   "city": "Šanghaj",
-   "from": "z Viedne",
-   "price": "520 €",
-   "dates": "10. 3. – 16. 3. 2027",
-   "subtitle": "1 prestup · Finnair",
-   "url": "https://www.facebook.com/1392156887321744_122113804317538174",
-   "image": "img/431.jpg",
-   "added": "2026-11-22T13:23:51+00:00"
   }
  ]
 }
