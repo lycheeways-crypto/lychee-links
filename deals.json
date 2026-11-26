@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T13:03:40+00:00",
+ "updated": "2026-11-26T13:04:11+00:00",
  "deals": [
+  {
+   "id": "492",
+   "city": "Atény",
+   "from": "z Bratislavy",
+   "price": "40 €",
+   "dates": "18. 1. – 25. 1. 2027",
+   "subtitle": "Priamy let · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122115368169538174",
+   "image": "img/492.jpg",
+   "added": "2026-11-26T13:04:11+00:00"
+  },
   {
    "id": "493",
    "city": "Stockholm",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113804977538174",
    "image": "img/423.jpg",
    "added": "2026-11-22T13:25:31+00:00"
-  },
-  {
-   "id": "424",
-   "city": "Kuching",
-   "from": "z Viedne",
-   "price": "667 €",
-   "dates": "10. 4. – 20. 4. 2027",
-   "subtitle": "2 prestupy",
-   "url": "https://www.facebook.com/1392156887321744_122113804797538174",
-   "image": "img/424.jpg",
-   "added": "2026-11-22T13:25:07+00:00"
   }
  ]
 }
