@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T13:39:56+00:00",
+ "updated": "2026-11-27T13:40:21+00:00",
  "deals": [
+  {
+   "id": "506",
+   "city": "Neapol",
+   "from": "z Bratislavy",
+   "price": "30 €",
+   "dates": "21. 1. – 28. 1. 2027",
+   "subtitle": "Priamy let · Wizz Air",
+   "url": "https://www.facebook.com/1392156887321744_122115739599538174",
+   "image": "img/506.jpg",
+   "added": "2026-11-27T13:40:21+00:00"
+  },
   {
    "id": "507",
    "city": "Sofia",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122114634141538174",
    "image": "img/458.jpg",
    "added": "2026-11-24T14:34:53+00:00"
-  },
-  {
-   "id": "455",
-   "city": "New York",
-   "from": "z Prahy",
-   "price": "322 €",
-   "dates": "15. 1. – 25. 1. 2027",
-   "subtitle": "1 prestup · Condor",
-   "url": "https://www.facebook.com/1392156887321744_122114328741538174",
-   "image": "img/455.jpg",
-   "added": "2026-11-23T20:12:57+00:00"
   }
  ]
 }
