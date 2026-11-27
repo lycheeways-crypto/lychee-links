@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T13:04:41+00:00",
+ "updated": "2026-11-27T13:12:03+00:00",
  "deals": [
+  {
+   "id": "520",
+   "city": "Houston",
+   "from": "z Budapešti",
+   "price": "686 €",
+   "dates": "6. 2. – 20. 2. 2027",
+   "subtitle": "3 prestupy · Ryanair",
+   "url": "https://www.facebook.com/1392156887321744_122115729549538174",
+   "image": "img/520.jpg",
+   "added": "2026-11-27T13:12:03+00:00"
+  },
   {
    "id": "491",
    "city": "Rím",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122113805415538174",
    "image": "img/421.jpg",
    "added": "2026-11-22T13:26:23+00:00"
-  },
-  {
-   "id": "422",
-   "city": "Londýn",
-   "from": "z Budapešti",
-   "price": "46 €",
-   "dates": "28. 1. – 4. 2. 2027",
-   "subtitle": "Priamy let · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122113805145538174",
-   "image": "img/422.jpg",
-   "added": "2026-11-22T13:25:55+00:00"
   }
  ]
 }
