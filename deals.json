@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T13:18:10+00:00",
+ "updated": "2026-11-27T13:18:57+00:00",
  "deals": [
+  {
+   "id": "514",
+   "city": "Soul",
+   "from": "z Prahy",
+   "price": "655 €",
+   "dates": "5. 3. – 12. 3. 2027",
+   "subtitle": "2 prestupy · LOT",
+   "url": "https://www.facebook.com/1392156887321744_122115732261538174",
+   "image": "img/514.jpg",
+   "added": "2026-11-27T13:18:57+00:00"
+  },
   {
    "id": "515",
    "city": "Kochi",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122114273469538174",
    "image": "img/439.jpg",
    "added": "2026-11-23T16:21:05+00:00"
-  },
-  {
-   "id": "418",
-   "city": "Neapol",
-   "from": "z Bratislavy",
-   "price": "36 €",
-   "dates": "12. 1. – 15. 1. 2027",
-   "subtitle": "Priamy let · Wizz Air",
-   "url": "https://www.facebook.com/1392156887321744_122113805895538174",
-   "image": "img/418.jpg",
-   "added": "2026-11-22T13:27:40+00:00"
   }
  ]
 }
