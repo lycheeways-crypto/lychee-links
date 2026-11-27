@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T13:37:33+00:00",
+ "updated": "2026-11-27T13:39:08+00:00",
  "deals": [
+  {
+   "id": "508",
+   "city": "Miláno",
+   "from": "z Prahy",
+   "price": "32 €",
+   "dates": "21. 1. – 23. 1. 2027",
+   "subtitle": "Priamy let",
+   "url": "https://www.facebook.com/1392156887321744_122115739077538174",
+   "image": "img/508.jpg",
+   "added": "2026-11-27T13:39:08+00:00"
+  },
   {
    "id": "511",
    "city": "Šarm el-Šejk",
@@ -319,17 +330,6 @@
    "url": "https://www.facebook.com/1392156887321744_122114273979538174",
    "image": "img/457.jpg",
    "added": "2026-11-23T16:23:21+00:00"
-  },
-  {
-   "id": "451",
-   "city": "Dillí",
-   "from": "z Viedne",
-   "price": "438 €",
-   "dates": "8. 2. – 16. 2. 2027",
-   "subtitle": "2 prestupy · Pegasus",
-   "url": "https://www.facebook.com/1392156887321744_122114273709538174",
-   "image": "img/451.jpg",
-   "added": "2026-11-23T16:22:04+00:00"
   }
  ]
 }
